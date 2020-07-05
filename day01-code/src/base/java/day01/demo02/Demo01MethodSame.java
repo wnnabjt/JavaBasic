@@ -1,4 +1,4 @@
-package cn.itcast.day04.demo02;
+package base.java.day01.demo02;
 
 public class Demo01MethodSame {
 

@@ -1,4 +1,4 @@
-package cn.itcast.day04.demo03;
+package base.java.day01.demo03;
 
 public class Demo02MethodSum {
 

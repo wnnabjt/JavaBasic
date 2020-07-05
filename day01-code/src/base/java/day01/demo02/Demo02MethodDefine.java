@@ -1,4 +1,4 @@
-package cn.itcast.day04.demo02;
+package base.java.day01.demo02;
 
 /*
     定义方法的完整格式：

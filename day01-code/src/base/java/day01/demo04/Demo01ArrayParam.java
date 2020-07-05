@@ -1,4 +1,4 @@
-package cn.itcast.day04.demo04;
+package base.java.day01.demo04;
 
 /*
 当调用方法的时候，向方法传参的其实是数组的地址值。

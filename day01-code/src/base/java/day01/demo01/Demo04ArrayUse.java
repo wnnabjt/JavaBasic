@@ -1,4 +1,4 @@
-package cn.itcast.day04.demo01;
+package base.java.day01.demo01;
 
 /*
 直接打印数组名称，得到的是数组对应的：内存地址哈希值。

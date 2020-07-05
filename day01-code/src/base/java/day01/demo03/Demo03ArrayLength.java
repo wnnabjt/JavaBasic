@@ -1,4 +1,4 @@
-package cn.itcast.day04.demo03;
+package base.java.day01.demo03;
 
 /*
 获取数组的长度： format：array.length

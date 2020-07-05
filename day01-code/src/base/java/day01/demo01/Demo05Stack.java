@@ -1,4 +1,4 @@
-package cn.itcast.day04.demo01;
+package base.java.day01.demo01;
 
 /*
 Java的内存需要划分为5个部分：

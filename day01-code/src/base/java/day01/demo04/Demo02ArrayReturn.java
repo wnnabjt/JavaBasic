@@ -1,4 +1,4 @@
-package cn.itcast.day04.demo04;
+package base.java.day01.demo04;
 
 public class Demo02ArrayReturn {
 

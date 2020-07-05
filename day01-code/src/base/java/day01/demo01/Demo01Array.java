@@ -1,4 +1,4 @@
-package cn.itcast.day04.demo01;
+package base.java.day01.demo01;
 
 /*
 数组：用来存放多个数据的容器

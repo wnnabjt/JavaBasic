@@ -1,4 +1,4 @@
-package cn.itcast.day04.demo03;
+package base.java.day01.demo03;
 
 /*
     1.如果方法有返回值，那么必须写上 return 返回值

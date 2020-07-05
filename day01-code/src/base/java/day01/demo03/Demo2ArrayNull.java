@@ -1,4 +1,4 @@
-package cn.itcast.day04.demo03;
+package base.java.day01.demo03;
 
 /*
 所有的引用类型变量，都可以赋值为一个null值。但是代表其中什么都没有。

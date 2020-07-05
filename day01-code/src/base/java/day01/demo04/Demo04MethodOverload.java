@@ -1,4 +1,4 @@
-package cn.itcast.day04.demo04;
+package base.java.day01.demo04;
 
 /*
 方法的重载(OverLoad)：多个方法的名称一样，但是参数列表不同。
