@@ -20,22 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8139fd14-eb9c-4ad6-81fc-625263c329d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo01Set/Demo01HashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo01Set/Demo02LinkedHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo01Set/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo02ChangableVariable/ChangableVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo03Collections/Demo01Collections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo03Collections/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo04Map/Demo01Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo04Map/Demo02MapUsingDefinitionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo04Map/Demo03LinkedHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo04Map/Demo04Hashtable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo04Map/Practice/CalculateTheNumberOfCharacterInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo05Of/Of.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo06DouDiZhu/DouDiZhu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo07Exception/Demo01Exception.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05-code/src/Demo07List/Demo03Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/Demo07List/Demo03Set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day05-code/Demo07List/Demo03Set.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day05-code/Demo07List/Demo03Set.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo07Exception/Demo02ThrowKeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo07Exception/Demo03ObjectsRequireNonNull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo07Exception/Demo04Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo07Exception/Demo05TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo07Exception/Demo06Finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo07Exception/Demo07MultiException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo07Exception/Demo08ExtendsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo07Exception/Demo09RegisterException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06-code/src/Demo07Exception/ImitateRegister/Demo01ImitateRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day06-code/Demo07Exception/Demo01Exception.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day06-code/Demo07Exception/Demo01Exception.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +65,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Demo01Exception">
-    <configuration name="CalculateTheNumberOfCharacterInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo04Map.Practice.CalculateTheNumberOfCharacterInAString" />
+  <component name="RunManager" selected="Application.Demo01ImitateRegister">
+    <configuration name="Demo01ImitateRegister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo07Exception.ImitateRegister.Demo01ImitateRegister" />
       <module name="day06-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo04Map.Practice.*" />
+          <option name="PATTERN" value="Demo07Exception.ImitateRegister.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo07Exception.Demo01Exception" />
+    <configuration name="Demo03ObjectsRequireNonNull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo07Exception.Demo03ObjectsRequireNonNull" />
       <module name="day06-code" />
       <extension name="coverage">
         <pattern>
@@ -98,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo04Hashtable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo04Map.Demo04Hashtable" />
+    <configuration name="Demo04Throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo07Exception.Demo04Throws" />
       <module name="day06-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo04Map.*" />
+          <option name="PATTERN" value="Demo07Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DouDiZhu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo06DouDiZhu.DouDiZhu" />
+    <configuration name="Demo05TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo07Exception.Demo05TryCatch" />
       <module name="day06-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo06DouDiZhu.*" />
+          <option name="PATTERN" value="Demo07Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Of" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo05Of.Of" />
+    <configuration name="Demo06Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo07Exception.Demo06Finally" />
       <module name="day06-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo05Of.*" />
+          <option name="PATTERN" value="Demo07Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo01Exception" />
-        <item itemvalue="Application.DouDiZhu" />
-        <item itemvalue="Application.Of" />
-        <item itemvalue="Application.CalculateTheNumberOfCharacterInAString" />
-        <item itemvalue="Application.Demo04Hashtable" />
+        <item itemvalue="Application.Demo01ImitateRegister" />
+        <item itemvalue="Application.Demo06Finally" />
+        <item itemvalue="Application.Demo05TryCatch" />
+        <item itemvalue="Application.Demo04Throws" />
+        <item itemvalue="Application.Demo03ObjectsRequireNonNull" />
       </list>
     </recent_temporary>
   </component>
@@ -181,46 +175,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1594260534852" />
-    <state x="579" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1594254664888">
+    <state x="579" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1594298505011">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="579" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594254664888" />
+    <state x="579" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594298505011" />
     <state x="488" y="152" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594108376656">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="488" y="152" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1594108376656" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594265960834">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1594299557294">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594265960834" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594265960834">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594299557294" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1594299557294">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594265960834" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594265960834">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594299557294" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1594299557294">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594265960834" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594265960834">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594299557294" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1594299557294">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594265960834" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1593951258019">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594299557294" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594299557295">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593951258019" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1593951258019">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594299557295" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594299557294">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593951258019" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1593951258019">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594299557294" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594299557294">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593951258019" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1593951258019">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594299557294" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594299557294">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593951258019" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594299557294" />
     <state x="272" y="58" key="SettingsEditor" timestamp="1594048491501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -245,9 +239,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="561" y="273" key="scopes/0.0.1536.824@0.0.1536.824" timestamp="1594203807067" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594263855283">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594292361944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594263855283" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594292361944" />
   </component>
 </project>
