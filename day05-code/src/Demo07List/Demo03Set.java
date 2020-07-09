@@ -12,6 +12,9 @@ java.util.HashSet是Set的一个实现类。
     3.HashSet底层实现是哈希结构，该结构在查找方面非常之快。
  */
 
+import org.w3c.dom.ls.LSOutput;
+
+import java.util.Collection;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
@@ -31,6 +34,6 @@ public class Demo03Set {
         while(it.hasNext()) {
             System.out.println(it.next());
         }
-    }
 
+    }
 }
