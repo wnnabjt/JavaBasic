@@ -21,6 +21,7 @@ import java.io.IOException;
 public class Demo03FileCopy {
 
     public static void main(String[] args) throws IOException {
+        long s = System.currentTimeMillis();
         FileInputStream fis = new FileInputStream("day10-code\\src\\Demo01ByteStream\\a.jpg");
         FileOutputStream fos = new FileOutputStream("day10-code\\src\\Demo01ByteStream\\aCopy.jpg");
 
@@ -31,7 +32,8 @@ public class Demo03FileCopy {
         }
         fos.close();
         fis.close();
-
+        long e = System.currentTimeMillis();
+        System.out.println((e - s) + "ms");
     }
 
 }

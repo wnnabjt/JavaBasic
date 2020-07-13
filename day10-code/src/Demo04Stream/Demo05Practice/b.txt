@@ -1,0 +1,9 @@
+1把数据写入到内存缓冲区中去Buffered
+2把数据写入到内存缓冲区中去Buffered
+3把数据写入到内存缓冲区中去Buffered
+4把数据写入到内存缓冲区中去Buffered
+5把数据写入到内存缓冲区中去Buffered
+6把数据写入到内存缓冲区中去Buffered
+7把数据写入到内存缓冲区中去Buffered
+8把数据写入到内存缓冲区中去Buffered
+9把数据写入到内存缓冲区中去Buffered
