@@ -20,32 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8139fd14-eb9c-4ad6-81fc-625263c329d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day11_code/myHtml/GitHub.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/myHtml/GitHub_files/dashboard-bootstrap-6d9a62e7.js.下载" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/myHtml/GitHub_files/environment-bootstrap-5cd2d202.js.下载" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/myHtml/GitHub_files/frameworks-c13da5e5.js.下载" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/myHtml/GitHub_files/frameworks-feecb8f4bc5dce34742f7eae4fa0a799.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/myHtml/GitHub_files/github-55fa860ce9921cde759bf03b4a6bf279.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/myHtml/GitHub_files/github-bootstrap-b7d6118e.js.下载" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/myHtml/GitHub_files/octocat-spinner-128.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/myHtml/GitHub_files/octocat-spinner-64.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/myHtml/GitHub_files/search-key-slash.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/myHtml/GitHub_files/vendor-9a5b6f42.js.下载" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo01TCP/Demo01TCPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo01TCP/Demo02TCPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo01TCP/Practice/FileUpload/UploadClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo01TCP/Practice/FileUpload/UploadServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo01TCP/Practice/FileUpload/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo01TCP/Practice/FileUpload/b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo01TCP/Practice/MultiThreadFileUpload/UploadClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo01TCP/Practice/MultiThreadFileUpload/UploadServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo02BSTCP/Demo01BSTCPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo02BSTCP/Demo02BSTCPServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/upload/FileUpload1594696646368-2093712385.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/upload/FileUpload15946966554782144786237.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/upload/FileUpload15946968970551405557969.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/upload/FileUpload1594696900188-463708945.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_code/upload/FileUpload1594696902836-1345781839.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo03FunctionalInterface/Demo01FuncionalInterfaceUsing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo03FunctionalInterface/Demo02Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo03FunctionalInterface/Demo03RunnableLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo03FunctionalInterface/Demo04ReturnLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo03FunctionalInterface/Demo05NormalFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo03FunctionalInterface/Demo06ConsumerAndThenPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo03FunctionalInterface/MessageMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo03FunctionalInterface/MyFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo03FunctionalInterface/Practice/DefinitionFunctionModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo03FunctionalInterface/Practice/InvalidInfoDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo03FunctionalInterface/Practice/StringTypeNumberAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo04Stream/Demo01Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo04Stream/Demo02StreamMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo04Stream/Demo03StreamNormalMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo04Stream/Demo04StreamLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo04Stream/Practice/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Demo04Stream/Practice/personInfoManage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,13 +83,13 @@
       <recent name="C:\Users\Cruelking\Desktop\JavaBasic\day10-code\src\Demo06Serialize\Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo02BSTCPServerThread">
-    <configuration name="Demo01BSTCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo02BSTCP.Demo01BSTCPServer" />
+  <component name="RunManager" selected="Application.personInfoManage">
+    <configuration name="Demo01Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo04Stream.Demo01Stream" />
       <module name="day11_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo02BSTCP.*" />
+          <option name="PATTERN" value="Demo04Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02BSTCPServerThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo02BSTCP.Demo02BSTCPServerThread" />
+    <configuration name="Demo02StreamMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo04Stream.Demo02StreamMap" />
       <module name="day11_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo02BSTCP.*" />
+          <option name="PATTERN" value="Demo04Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UploadClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo01TCP.Practice.MultiThreadFileUpload.UploadClient" />
+    <configuration name="Demo03StreamNormalMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo04Stream.Demo03StreamNormalMethod" />
       <module name="day11_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo01TCP.Practice.MultiThreadFileUpload.*" />
+          <option name="PATTERN" value="Demo04Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UploadClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo01TCP.Practice.FileUpload.UploadClient" />
+    <configuration name="Demo04StreamLimit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo04Stream.Demo04StreamLimit" />
       <module name="day11_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo01TCP.Practice.FileUpload.*" />
+          <option name="PATTERN" value="Demo04Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UploadServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo01TCP.Practice.MultiThreadFileUpload.UploadServer" />
+    <configuration name="personInfoManage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo04Stream.Practice.personInfoManage" />
       <module name="day11_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo01TCP.Practice.MultiThreadFileUpload.*" />
+          <option name="PATTERN" value="Demo04Stream.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo02BSTCPServerThread" />
-        <item itemvalue="Application.Demo01BSTCPServer" />
-        <item itemvalue="Application.UploadClient (1)" />
-        <item itemvalue="Application.UploadServer (1)" />
-        <item itemvalue="Application.UploadClient" />
+        <item itemvalue="Application.personInfoManage" />
+        <item itemvalue="Application.Demo03StreamNormalMethod" />
+        <item itemvalue="Application.Demo04StreamLimit" />
+        <item itemvalue="Application.Demo02StreamMap" />
+        <item itemvalue="Application.Demo01Stream" />
       </list>
     </recent_temporary>
   </component>
@@ -205,10 +196,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1594654053695" />
-    <state x="572" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1594650625836">
+    <state x="572" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1594739703153">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="572" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594650625836" />
+    <state x="572" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594739703153" />
     <state x="417" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1594551924950">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -221,38 +212,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="488" y="152" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1594108376656" />
-    <state width="1493" height="245" key="GridCell.Tab.0.bottom" timestamp="1594701664798">
+    <state width="1493" height="245" key="GridCell.Tab.0.bottom" timestamp="1594740035398">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594701664798" />
-    <state width="1493" height="245" key="GridCell.Tab.0.center" timestamp="1594701664798">
+    <state width="1493" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594740035398" />
+    <state width="1493" height="245" key="GridCell.Tab.0.center" timestamp="1594740035398">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="245" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594701664798" />
-    <state width="1493" height="245" key="GridCell.Tab.0.left" timestamp="1594701664798">
+    <state width="1493" height="245" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594740035398" />
+    <state width="1493" height="245" key="GridCell.Tab.0.left" timestamp="1594740035398">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="245" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594701664798" />
-    <state width="1493" height="245" key="GridCell.Tab.0.right" timestamp="1594701664798">
+    <state width="1493" height="245" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594740035398" />
+    <state width="1493" height="245" key="GridCell.Tab.0.right" timestamp="1594740035398">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="245" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594701664798" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594633428631">
+    <state width="1493" height="245" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594740035398" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594738981913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594633428631" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594633428631">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594738981913" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594738981913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594633428631" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594633428631">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594738981913" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594738981913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594633428631" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594633428631">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594738981913" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594738981913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594633428631" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594738981913" />
     <state x="272" y="58" key="SettingsEditor" timestamp="1594651094703">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -277,9 +268,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="561" y="273" key="scopes/0.0.1536.824@0.0.1536.824" timestamp="1594203807067" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594692089969">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594738545417">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594692089969" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594738545417" />
   </component>
 </project>
